@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋 I'm Vhuhwavho Marvin Netshirando
 
-<!--
-**MarvinNesh/MarvinNesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Development student at WeThinkCode_  
+💡 Passionate about building solutions that make life easier for people — especially in rural communities  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools
+**Languages:** Java, Python, Dart  
+**Mobile:** Flutter, Android Studio  
+**Backend:** Python (Flask), PostgreSQL, Firebase  
+**Other:** Git & GitHub, Linux, OOP, Client-Server Systems  
+
+---
+
+## 📌 Featured Projects
+
+### 🩺 **SmartHealth**
+Real-time health monitoring & emergency alert system.  
+Designed to help users — including rural areas — get fast medical help.
+
+### 📘 **SmartTutor**
+Maths tutoring platform for Grade 10–12 learners, with step-by-step explanations.
+
+### 💸 **ImaliTracker**
+Cash-first budgeting and small business finance tracker for the South African economy.
+
+### 🤖 **Robot World (Java)**
+Multiplayer simulation where Java clients connect to a server-controlled world.
+
+---
+
+## 📊 GitHub Stats
+![Profile views](https://komarev.com/ghpvc/?username=MarvinNesh)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarvinNesh&show_icons=true&count_private=true)
+
+---
+
+⭐ _Thanks for visiting my profile!_
