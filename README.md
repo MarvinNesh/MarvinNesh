@@ -32,7 +32,7 @@ Multiplayer simulation where Java clients connect to a server-controlled world.
 ---
 
 ## 📊 GitHub Stats
-![Profile views](https://komarev.com/ghpvc/?username=MarvinNesh)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarvinNesh&show_icons=true&count_private=true)
 
 ---
