@@ -118,10 +118,7 @@
 
 ---
 
-# ✨ **Fun Animated Section**
-<p align="center">
-  <img src="https://i.imgur.com/C7c5r9v.gif" width="350" />
-</p>
+
 
 
 
