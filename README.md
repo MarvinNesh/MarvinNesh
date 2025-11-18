@@ -30,7 +30,7 @@
 
 ---
 
-# 🌈 *Dynamic Skill Bars (Animated)*  
+# 🌈 *Dynamic Skill Bars 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarvinNesh&theme=react-dark&area=true&hide_border=true" />
 </p>
@@ -123,18 +123,7 @@
   <img src="https://i.imgur.com/C7c5r9v.gif" width="350" />
 </p>
 
----
 
-# 🤝 **Let’s Connect**
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge" /></a>
-</p>
 
----
-
-<p align="center">
-  <img src="https://i.imgur.com/kd0JMzx.gif" width="300"/>
-</p>
 
 <h3 align="center">⭐ Thanks for visiting — Stay awesome & keep building! ⭐</h3>
