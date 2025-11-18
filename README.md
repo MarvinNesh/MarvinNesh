@@ -1,10 +1,14 @@
 <!-- Animated intro -->
+<p align="center">
 
+
+  <img src="https://readme-typing-svg.herokuapp.com?color=29F700&size=32&center=true&vCenter=true&width=1000&lines=Hi+I'm+Vhuhwavho+Marvin+Netshirando;Software+Developer+%7C+Flutter+%7C+Python+%7C+Java;Builder+of+Solutions+for+Rural+Communities;Passionate+Problem+Solver+%F0%9F%94%A5;Welcome+to+My+GitHub+Universe+%F0%9F%8C%8C" />
+
+
+</p>
 
 <!-- Neon animated banner -->
-<p align="center">
-  <img src="https://i.imgur.com/Tx1XQOa.gif" width="800" />
-</p>
+
 
 ---
 
