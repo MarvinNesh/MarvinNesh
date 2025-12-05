@@ -1,14 +1,7 @@
 <!-- Animated intro -->
 <p align="center">
-
-
   <img src="https://readme-typing-svg.herokuapp.com?color=29F700&size=32&center=true&vCenter=true&width=1000&lines=Hi+I'm+Vhuhwavho+Marvin+Netshirando;Software+Developer+%7C+Flutter+%7C+Python+%7C+Java;Builder+of+Solutions+for+Rural+Communities;Passionate+Problem+Solver+%F0%9F%94%A5;Welcome+to+My+GitHub+Universe+%F0%9F%8C%8C" />
-
-
 </p>
-
-<!-- Neon animated banner -->
-
 
 ---
 
@@ -25,14 +18,64 @@
 
 ---
 
-# ⚡ Tech Stack (Animated Icons)
+# ⚡ **Tech Stack (Icons + Labels)**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,dart,flutter,firebase,postgres,git,linux,androidstudio,vscode" />
+
+  <!-- Row 1 -->
+  <div style="display: flex; justify-content: center; gap: 25px;">
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="50"/>
+      <br>Java
+    </div>
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="50"/>
+      <br>Python
+    </div>
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=dart" width="50"/>
+      <br>Dart
+    </div>
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=flutter" width="50"/>
+      <br>Flutter
+    </div>
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=firebase" width="50"/>
+      <br>Firebase
+    </div>
+  </div>
+
+  <br/>
+
+  <!-- Row 2 -->
+  <div style="display: flex; justify-content: center; gap: 25px;">
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="50"/>
+      <br>PostgreSQL
+    </div>
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="50"/>
+      <br>Git
+    </div>
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=linux" width="50"/>
+      <br>Linux
+    </div>
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="50"/>
+      <br>Android Studio
+    </div>
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+      <br>VS Code
+    </div>
+  </div>
+
 </p>
 
 ---
 
-# 🌈 *Dynamic Skill Bars 
+# 🌈 **Dynamic Activity Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarvinNesh&theme=react-dark&area=true&hide_border=true" />
 </p>
@@ -115,14 +158,9 @@
 
 # 🌌 **3D Contribution Metrics**
 <p align="center">
- <img src="https://github.com/MarvinNesh/MarvinNesh/blob/main/profile-3d-contrib/profile-night-view.svg" width="700"/>
+  <img src="https://github.com/MarvinNesh/MarvinNesh/blob/main/profile-3d-contrib/profile-night-view.svg" width="700"/>
 </p>
 
 ---
-
-
-
-
-
 
 <h3 align="center">⭐ Thanks for visiting — Stay awesome & keep building! ⭐</h3>
