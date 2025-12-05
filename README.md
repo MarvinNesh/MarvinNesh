@@ -125,4 +125,4 @@
 
 
 
-<h3 align="center">⭐ Thanks for visiting — Stay awesome & keep building! ⭐</h3>..dont just show languGE ICON WRITE THE NAME UNDERTH lso
+<h3 align="center">⭐ Thanks for visiting — Stay awesome & keep building! ⭐</h3>
