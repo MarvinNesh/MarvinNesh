@@ -27,60 +27,7 @@
 
 # ⚡ Tech Stack (Animated Icons)
 <!-- Tech Stack With Labels Under Icons -->
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="50"/><br/>
-      <sub><b>Java</b></sub>
-    </td>
-
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="50"/><br/>
-      <sub><b>Python</b></sub>
-    </td>
-
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dart" width="50"/><br/>
-      <sub><b>Dart</b></sub>
-    </td>
-
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="50"/><br/>
-      <sub><b>Flutter</b></sub>
-    </td>
-
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" width="50"/><br/>
-      <sub><b>Firebase</b></sub>
-    </td>
-
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="50"/><br/>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="50"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="50"/><br/>
-      <sub><b>Linux</b></sub>
-    </td>
-
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="50"/><br/>
-      <sub><b>Android Studio</b></sub>
-    </td>
-
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-  </tr>
-</table>
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,dart,flutter,firebase,postgres,git,linux,androidstudio,vscode" /> </p>
 
 ---
 
