@@ -112,10 +112,7 @@
 
 ---
 
-# 🌌 **3D Contribution Metrics**
-<p align="center">
- <img src="https://github.com/MarvinNesh/MarvinNesh/blob/main/profile-3d-contrib/profile-night-view.svg" width="700"/>
-</p>
+
 
 ---
 
