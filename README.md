@@ -1,95 +1,140 @@
 <!-- Animated intro -->
 <p align="center">
-
-
-  <img src="https://readme-typing-svg.herokuapp.com?color=29F700&size=32&center=true&vCenter=true&width=1000&lines=Hi+I'm+Vhuhwavho+Marvin+Netshirando;Software+Developer+%7C+Flutter+%7C+Python+%7C+Java;Builder+of+Solutions+for+Rural+Communities;Passionate+Problem+Solver+%F0%9F%94%A5;Welcome+to+My+GitHub+Universe+%F0%9F%8C%8C" />
-
-
+  <img src="https://readme-typing-svg.herokuapp.com?color=29F700&size=32&center=true&vCenter=true&width=1000&lines=Hi+I'm+Vhuhwavho+Marvin+Netshirando;Backend+%26+Mobile+Developer+%7C+Java+%7C+C%23+%7C+Python;Builder+of+Solutions+for+Rural+Communities;Passionate+Problem+Solver+%F0%9F%94%A5;Welcome+to+My+GitHub+Universe+%F0%9F%8C%8C" />
 </p>
 
-<!-- Neon animated banner -->
-
+<!-- Neofetch-style profile card -->
+```text
+                .:;++==:,                           marvin@netshirando ───────────────────────────────
+             .=#@@@@@@@@@%*:                         
+            :@@@@@@@@@@@@@@@#.                       
+           :@%%%##*###%@@@@@@%,                      Kernel: ....... Backend + Mobile Developer
+           #****+==+*#%%@@@@@@%                      IDE: .......... IntelliJ, VS Code, Android Studio
+          .****+=;;=+*##%@@@@@@.
+           =+*++===+=**#@@@@@%#                      Languages.Programming: . Java, C#, Python, C++
+           ;*#%@@%*#%@@@@@@@@%*                      Languages.Frameworks: .. .NET 8, Spring Boot,
+           :+#%@@@%**@@@#%@@@@*,.                                             FASTAPI,FLASK
+           ;+*#%**+==#@@#%@@@@%@%                    Languages.Database: .... PostgreSQL, SQLite
+          ;=======;;;#%%%#%%%@%@@                    Languages.Real: ........ English, Tshivenda
+          ,=++==++*+*%@%@%#@@@@@+
+           ;**++=+**#%@@@@@@@@#:                     Mission: .... Impact-driven tech for rural SA
+            ;+**+++++*%@@@@@@@=                      Also: ....... Mentoring junior devs
+             ;+#@%**%%%%@@@@@@%.
+              :+*++***#@@@@@@@@:                    ─ Contact ─────────────────────────────────────────
+               :+*#%@@@@@@@@@@@%##*:                 Email: ........... denganetshi@gmail.com
+                =*##%@@@@@@@@@@@@@+                  GitHub: .......... MarvinNesh
+               ;++*%@@@@@@@@@@@@@#,;+#+              LinkedIn: ........ Vhuhwavho Marvin Netshirando
+             ;%@@++#@@@@@@@@@@@@@@@@@@@;:*=:.;#*
+           ;%@@@#++*##%%%@@@%%@@@@@@@@@%;,%@@@@*    ─ Featured Repos ──────────────────────────────────
+        :***%@@+ :++***+**+==%@@@@@@@@@@=,@@@@@@     PolicyEngine: ... .NET 8 insurance lifecycle API
+      ;%@%+ .#%,  +++==;:,. .=@@@@@@@@@@:*@@@@@@     LivestockLink: .. Herd tracking for rural farmers
+     =@@=,#.+@@@*:;=;::..,,,=%@@@@@@@@@@:*@@@@@@     E-commerce API: . Java Spring Boot REST backend
+    ,@@*,%= *@@@@@#===+##%@@@@@@@@%#*+=**@@@@@@@     Load shedding schedule: Full-stack Java
+    .*@;##  #%@@#+*#%%@@@@@%#+;:,.  ,+%@@@@@@@@@
+                                                     "Tech should empower people
+                                                      who need it the most."
+```
 
 ---
 
 # 🧑‍💻 **About Me**
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </p>
 
-- 🎓 Software Development student @ **WeThinkCode_**  
-- 🚀 Focused on **mobile apps, AI, and solving problems in rural SA**  
-- 🧠 Strong in **Java, Dart, Python, OOP, Client-Server systems**  
-- 🌍 Passionate about *impact-driven tech*  
-- 💡 “Tech should empower people who need it the most.”  
+- 🎓 Software Engineer @ **Arkzee**
+- 🚀 Building **production-style backends** (.NET, Spring Boot) and **mobile apps**
+- 🌍 Focused on **impact-driven tech for rural South Africa** — farming, transport, spaza economies
+- 🧠 Strong in **Java, C#, Python, OOP, REST APIs, client-server systems**
+- 🤝 Mentoring junior devs through guided exercises
+- 💡 "Tech should empower people who need it the most."
 
 ---
 
-# ⚡ Tech Stack (Animated Icons)
-<!-- Tech Stack With Labels Under Icons -->
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,dart,flutter,firebase,postgres,git,linux,androidstudio,vscode" /> </p>
+# ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,C#,spring,cs,python,js,supabase,firebase,postgres,sqlite,git,linux,androidstudio,vscode&perline=8" />
+</p>
 
 ---
 
-# 🌈 *Dynamic Skill Bars 
+# 📈 Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarvinNesh&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
 
-# 🚀 **Featured Projects — Ultra Edition**
+# 🚀 **Featured Projects**
 
-## 🩺 SmartHealth (AI + Alerts)
+## 🛡️ [PolicyEngine — Insurance Policy API](https://github.com/MarvinNesh/policy-engine-api)
 <p align="right">
   <img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="140"/>
 </p>
 
-✔ Real-time health tracking  
-✔ Emergency auto-alerts  
-✔ Diet + mental health recommendations  
-✔ Built for **rural areas**  
-🔧 *Flutter + Python + Machine Learning*  
+✔ Full short-term insurance lifecycle: **quote → bind → mid-term adjustment → cancellation/renewal**
+✔ Table-driven rating engine with pro-rata premium arithmetic
+✔ Domain-driven core, EF Core persistence, OpenAPI docs
+✔ CI-verified **xUnit** test suite
+
+🔧 *C# + .NET 8 + Entity Framework Core*
 
 ---
 
-## 📘 SmartTutor
+## 🐄 [LivestockLink (Farmer-Pocket)](https://github.com/MarvinNesh/Farmer-Pocket)
 <p align="right">
   <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="140"/>
 </p>
 
-✔ Maths tutoring for Grade 10–12  
-✔ Step-by-step guided learning  
-✔ Perfect for low-data areas  
-🔧 *Python + Mobile UI*
+✔ Herd tracking with **offline-first** design for rural farmers
+✔ Disease symptom scanning + outbreak alerts
+✔ Tele-vet connections for areas with limited vet access
+✔ Tackles ~20% annual livestock losses in provinces like Limpopo & the Eastern Cape
+
+🔧 *Python + Image Analysis*
 
 ---
 
-## 💸 ImaliTracker
+## 🛒 [E-commerce REST API](https://github.com/MarvinNesh/REST-API-E-commerce-)
 <p align="right">
   <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="140"/>
 </p>
 
-✔ Cash-first budgeting  
-✔ For rural businesses, spaza shops, small hustlers  
-✔ Expense category analysis  
-🔧 *Flutter + Firebase*
+✔ Backend REST API with full **API documentation**
+✔ Frontend integration
+✔ Maven-based Spring Boot architecture
+
+🔧 *Java + Spring Boot*
 
 ---
 
-## 🤖 Robot World (Java)
+## 🔌 [Lekker-Loadshedding](https://github.com/MarvinNesh/Lekker-Loadshedding)
 <p align="right">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="140"/>
 </p>
 
-✔ Multiplayer robot simulation  
-✔ Server-client communication  
-✔ FEN-like map parsing  
-🔧 *Java + Networking*
+✔ Systems integration project built around SA's loadshedding problem
+✔ Service-to-service communication & data handling
+✔ WeThinkCode_ SysInt build
+
+🔧 *Java*
 
 ---
 
-# 📊 GitHub Stats — *3D Animated Version*
+---
+
+## 🏦 More on my profile
+- 💰 [**BankingSystem-.NET**](https://github.com/MarvinNesh/BaankingSystem-.NET) — accounts, transfers & password hashing with EF Core + SQLite
+- 📦 [**Inventory-Management-System**](https://github.com/MarvinNesh/Inventory-Management-System) — C++ stock control, orders & reporting
+- 🏪 [**Spaza**](https://github.com/MarvinNesh/Spaza) — Spring Boot app for spaza shop commerce
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MarvinNesh&theme=onestar&no-frame=true&row=1&column=7" />
 </p>
@@ -106,19 +151,11 @@
 ---
 
 # 🐍 **Contribution Snake Animation**
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/MarvinNesh/MarvinNesh/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
-
-
-
----
-
-
-
-
-
 
 <h3 align="center">⭐ Thanks for visiting — Stay awesome & keep building! ⭐</h3>
